@@ -1,8 +1,7 @@
 ## Hi there 👋
 ### lalala
 
-
-[![sparkzky's GitHub stats](https://github-readme-stats.vercel.app/api?username=sparkzky&count_private=true&show_icons=true&theme=ambient_gradient&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![sparkzky's GitHub stats](https://github-readme-stats.vercel.app/api?username=sparkzky&hide_border=true&count_private=true&show_icons=true&theme=ambient_gradient&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sparkzky&layout=compact&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
